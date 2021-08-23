@@ -1,10 +1,5 @@
-CONTEXT
-Goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, 
+Wrangle `WeRateDogs` Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive isgreat
 but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required.
-
-
-
-
 
 
 The Data
@@ -15,11 +10,8 @@ The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their 
 each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo).
 
 
-
 In this project, I'll be using Tweepy to query Twitter's API for additional data beyond the data included in the WeRateDogs Twitter archive. 
 This additional data will include retweet count and favorite count.
-
-
 
 
 Project Details
@@ -27,7 +19,7 @@ Project Details
 Your tasks in this project are as follows:
 
     Data wrangling, which consists of:
-        Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
+    Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
         Assessing data
         Cleaning data
 	Storing, analyzing, and visualizing your wrangled data
